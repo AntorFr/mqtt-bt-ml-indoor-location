@@ -6,8 +6,8 @@ broker="up02"
 port=1883
 timelive=60
 client_id="mqtt-ia"
-username="antor"
-password="s2berard"
+username="xxxx"
+password="xxxxx"
 will_topic = "home/last_wills/"
 
 rpred = room_pred(reload=True) 
